@@ -23,6 +23,6 @@ Activer le virtualenv avant de continuer:
 
 ::
 
-    ./manager.py runserver
+    ./runserver.py
      * Running on http://127.0.1.1:9090/
      * Restarting with reloader
