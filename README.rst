@@ -1,11 +1,11 @@
 Installation
 ============
 
-Installer gstreamer-tools
+Installer gstreamer-tools et les dependances
 
 ::
     
-    sudo apt-get install gstreamer-tools
+    sudo apt-get install gstreamer-tools python-virtualenv libevent-dev python-gevent
 
 
 ::
